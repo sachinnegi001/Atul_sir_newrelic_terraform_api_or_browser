@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"API_BROWSER_MONITORING","Source":"git::https://github.com/sachinnegi001/synthatic_monitoring_api_browser.git","Dir":".terraform/modules/API_BROWSER_MONITORING"}]}
