@@ -39,25 +39,25 @@ script_Browser_monitor = {
     runtime_type         = "CHROME_BROWSER"
     script_language      = "JAVASCRIPT"
   }
-  # 3 = {
-  #   status = "ENABLED"
-  #   name   = "script_Browser_monitor-third"
-  #   type   = "SCRIPT_BROWSER"
-  #   locations_public = {
-  #     "a" = "AP_NORTHEAST_2"
-  #     "b" = "US_WEST_1"
-  #     "c" = "US_EAST_1"
-  #   }
-  #   period = "EVERY_12_HOURS"
+  3 = {
+    status = "ENABLED"
+    name   = "script_Browser_monitor-third"
+    type   = "SCRIPT_BROWSER"
+    locations_public = {
+      "a" = "AP_NORTHEAST_2"
+      "b" = "US_WEST_1"
+      "c" = "US_EAST_1"
+    }
+    period = "EVERY_12_HOURS"
 
-  #   enable_screenshot_on_failure_and_script = false
+    enable_screenshot_on_failure_and_script = false
 
-  #   script = "script_browser.js"
+    script = "script_browser.js"
 
-  #   runtime_type_version = "100"
-  #   runtime_type         = "CHROME_BROWSER"
-  #   script_language      = "JAVASCRIPT"
-  # }
+    runtime_type_version = "100"
+    runtime_type         = "CHROME_BROWSER"
+    script_language      = "JAVASCRIPT"
+  }
 }
 
 
